@@ -36,13 +36,13 @@ export default function Navbar() {
                   <div className="flex flex-shrink-0 items-center">
                     <img
                       className="block h-8 w-auto rounded-full lg:hidden"
-                      src="https://i.ibb.co/ZxYfdQ9/photo1689679057.jpg"
-                      alt="Slides Bank"
+                      src="https://i.ibb.co/r0fHyCS/photo1690443888.jpg"
+                      alt="Magic VPN"
                     />
                     <img
                       className="hidden h-8 w-auto rounded-full lg:block"
-                      src="https://i.ibb.co/ZxYfdQ9/photo1689679057.jpg"
-                      alt="Slides Bank"
+                      src="https://i.ibb.co/r0fHyCS/photo1690443888.jpg"
+                      alt="Magic VPN"
                     />
                   </div>
                   <div className="inline-flex items-center pl-4 pt-1 text-xl font-bold text-gray-900">
