@@ -6,28 +6,28 @@ const Home: NextPage = () => {
   const products = [
     {
       id: 1,
-      price: 10,
-      name: "Digit Pack",
-      imageSrc: "https://i.ibb.co/vqcdMj9/photo1689679418.jpg",
-      imageAlt: "Digit Pack",
+      price: 4,
+      name: "1 месяц",
+      imageSrc: "https://i.ibb.co/FkTQVmK/photo1690445297.jpg",
+      imageAlt: "1 месяц",
     },
     {
       id: 2,
-      name: "SEO & Digital Marketing",
-      price: 10,
+      name: "6 месяцев",
+      price: 22,
       imageSrc:
-        "https://i.ibb.co/3hf8fgH/photo1689679432.jpg",
+        "https://i.ibb.co/k29J6th/photo1690445300.jpg",
       imageAlt:
-        "SEO & Digital Marketing",
+        "6 месяцев",
     },
     {
       id: 3,
-      name: "Digital Marketing",
-      price: 10,
+      name: "1 год",
+      price: 40,
       imageSrc:
-        "https://i.ibb.co/fqj84wb/photo1689679446.jpg",
+        "https://i.ibb.co/hcHNHZW/photo1690445303.jpg",
       imageAlt:
-        "Digital Marketing",
+        "1 год",
     },
   ];
   const router = useRouter();
@@ -36,7 +36,7 @@ const Home: NextPage = () => {
       <div className="bg-white">
         <div className="mx-auto max-w-7xl overflow-hidden py-8 px-4 sm:py-24 sm:px-6 lg:px-8">
         <div className="flex flex-col text-center w-full mb-8">
-      <h1 className="sm:text-3xl text-2xl font-medium title-font text-gray-900">The best slides for the best prices from the best presentaion gurus</h1>
+      <h1 className="sm:text-3xl text-2xl font-medium title-font text-gray-900">ТВОЙ VPN БЕЗ ПРОБЛЕМ</h1>
     </div>
           <div className="grid  mx-auto gap-y-10 gap-x-30 sm:grid-cols-2 lg:grid-cols-3 lg:gap-x-8">
             {products.map((product) => (
