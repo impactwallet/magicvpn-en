@@ -18,34 +18,34 @@ import { ProductContext } from "../_app";
 const products = [
   {
     id: 1,
-    price: 10,
-    orgId: "64b684f3c5129c853cb29c66",
-    wallet: "Gpda5Mkjnje2J1WrPjxJDphoKPNrXA33Sf3S2K5WLnna",
-    name: "Digit Pack",
-    imageSrc: "https://i.ibb.co/vqcdMj9/photo1689679418.jpg",
-    imageAlt: "Digit Pack",
+    price: 4,
+    name: "1 месяц",
+    imageSrc: "https://i.ibb.co/FkTQVmK/photo1690445297.jpg",
+    imageAlt: "1 месяц",
+    wallet: "Ak66FsBPPGVua6U5pfzTPbJmneN5ZFfutLDRy2uUHtxo",
+    orgId: "64c111e591700ec3d5d12b44",
   },
   {
     id: 2,
-    name: "SEO & Digital Marketing",
-    price: 10,
+    name: "6 месяцев",
+    price: 22,
     imageSrc:
-      "https://i.ibb.co/3hf8fgH/photo1689679432.jpg",
+      "https://i.ibb.co/k29J6th/photo1690445300.jpg",
     imageAlt:
-      "SEO & Digital Marketing",
-    orgId: "64b684f3c5129c853cb29c66",
-    wallet: "Gpda5Mkjnje2J1WrPjxJDphoKPNrXA33Sf3S2K5WLnna",
+      "6 месяцев",
+    wallet: "Ak66FsBPPGVua6U5pfzTPbJmneN5ZFfutLDRy2uUHtxo",
+    orgId: "64c111e591700ec3d5d12b44",
   },
   {
     id: 3,
-    name: "Digital Marketing",
-    price: 10,
+    name: "1 год",
+    price: 40,
     imageSrc:
-      "https://i.ibb.co/fqj84wb/photo1689679446.jpg",
+      "https://i.ibb.co/hcHNHZW/photo1690445303.jpg",
     imageAlt:
-      "Digital Marketing",
-    orgId: "64b684f3c5129c853cb29c66",
-    wallet: "Gpda5Mkjnje2J1WrPjxJDphoKPNrXA33Sf3S2K5WLnna",
+      "1 год",
+    wallet: "Ak66FsBPPGVua6U5pfzTPbJmneN5ZFfutLDRy2uUHtxo",
+    orgId: "64c111e591700ec3d5d12b44",
   },
 ];
 function classNames(...classes: any[]) {
