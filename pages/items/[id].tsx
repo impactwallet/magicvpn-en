@@ -19,31 +19,31 @@ const products = [
   {
     id: 1,
     price: 4,
-    name: "1 месяц",
-    imageSrc: "https://i.ibb.co/FkTQVmK/photo1690445297.jpg",
-    imageAlt: "1 месяц",
+    name: "1 month",
+    imageSrc: "https://i.ibb.co/sV798w2/photo1690446175.jpg",
+    imageAlt: "1 month",
     wallet: "Ak66FsBPPGVua6U5pfzTPbJmneN5ZFfutLDRy2uUHtxo",
     orgId: "64c111e591700ec3d5d12b44",
   },
   {
     id: 2,
-    name: "6 месяцев",
+    name: "6 months",
     price: 22,
     imageSrc:
-      "https://i.ibb.co/k29J6th/photo1690445300.jpg",
+      "https://i.ibb.co/9ygfZnw/photo1690446182.jpg",
     imageAlt:
-      "6 месяцев",
+      "6 months",
     wallet: "Ak66FsBPPGVua6U5pfzTPbJmneN5ZFfutLDRy2uUHtxo",
     orgId: "64c111e591700ec3d5d12b44",
   },
   {
     id: 3,
-    name: "1 год",
+    name: "1 year",
     price: 40,
     imageSrc:
-      "https://i.ibb.co/hcHNHZW/photo1690445303.jpg",
+      "https://i.ibb.co/DtnzkQm/photo1690446187.jpg",
     imageAlt:
-      "1 год",
+      "1 year",
     wallet: "Ak66FsBPPGVua6U5pfzTPbJmneN5ZFfutLDRy2uUHtxo",
     orgId: "64c111e591700ec3d5d12b44",
   },
